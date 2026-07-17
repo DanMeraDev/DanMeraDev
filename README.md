@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=danmeradev&label=Profile%20views&color=6db33f&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DanMeraDev&label=Profile%20views&color=6db33f&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/badge/Made%20with-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="spring boot" />
 </p>
 
@@ -72,12 +72,12 @@ public class Daniel {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danmeradev&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=6DB33F&icon_color=6DB33F&text_color=8b949e" alt="stats" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=danmeradev&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=00000000&title_color=6DB33F&text_color=8b949e" alt="top langs" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DanMeraDev&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=6DB33F&icon_color=6DB33F&text_color=8b949e" alt="stats" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanMeraDev&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=00000000&title_color=6DB33F&text_color=8b949e" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danmeradev&hide_border=true&background=00000000&stroke=6DB33F&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideNums=8b949e&currStreakNum=8b949e&dates=8b949e&sideLabels=8b949e" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanMeraDev&hide_border=true&background=00000000&stroke=6DB33F&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideNums=8b949e&currStreakNum=8b949e&dates=8b949e&sideLabels=8b949e" alt="streak" />
 </p>
 
 
@@ -91,7 +91,7 @@ public class Daniel {
   <a href="mailto:tu-correo@ejemplo.com">
     <img src="https://img.shields.io/badge/Email-6DB33F?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://github.com/danmeradev" target="_blank">
+  <a href="https://github.com/DanMeraDev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-6DB33F?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
