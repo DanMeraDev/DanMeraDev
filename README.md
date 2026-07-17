@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&height=60&lines=Fullstack+Developer+%F0%9F%8D%83;Backend+%26+API+Development;Java+%2B+Spring+Boot+Enthusiast;Active+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&height=60&lines=Fullstack+Developer+%F0%9F%8D%83;Backend+%26+API+Development;Java+%2B+Spring+Boot+Enthusiast;Active+Learner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -72,12 +72,12 @@ public class Daniel {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DanMeraDev&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=6DB33F&icon_color=6DB33F&text_color=8b949e" alt="stats" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanMeraDev&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=00000000&title_color=6DB33F&text_color=8b949e" alt="top langs" />
+  <img width="49%" src="https://github-stats-extended-frontend-chi.vercel.app/api?username=DanMeraDev&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=6DB33F&icon_color=6DB33F&text_color=8b949e" alt="stats" />
+  <img width="42%" src="https://github-stats-extended-frontend-chi.vercel.app/api/top-langs?username=DanMeraDev&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=00000000&title_color=6DB33F&text_color=8b949e" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanMeraDev&hide_border=true&background=00000000&stroke=6DB33F&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideNums=8b949e&currStreakNum=8b949e&dates=8b949e&sideLabels=8b949e" alt="streak" />
+  <img src="https://github-readme-streak-stats-six-mauve.vercel.app/?user=DanMeraDev&hide_border=true&background=00000000&stroke=6DB33F&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideNums=8b949e&currStreakNum=8b949e&dates=8b949e&sideLabels=8b949e" alt="streak" />
 </p>
 
 
