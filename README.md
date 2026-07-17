@@ -42,19 +42,19 @@ public class Daniel {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,py&theme=dark&perline=6" alt="languages and frameworks" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,react,aws,linux&theme=dark&perline=6" alt="core stack" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,linux&theme=dark&perline=6" alt="databases and devops" />
+    <img src="https://skillicons.dev/icons?i=docker,bash,postman,postgres,git,nodejs&theme=dark&perline=6" alt="devops and tools" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,bash,postman,figma&theme=dark&perline=6" alt="tools" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,mongodb,html,css,figma&theme=dark&perline=6" alt="others" />
   </a>
 </p>
 
