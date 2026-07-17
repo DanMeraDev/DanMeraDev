@@ -41,30 +41,21 @@ public class Daniel {
 <p align="center"><i>Ordered by how much I use them 🍃</i></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="46" height="46"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,py&theme=dark&perline=6" alt="languages and frameworks" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="46" height="46"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,linux&theme=dark&perline=6" alt="databases and devops" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="46" height="46"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="46" height="46"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,git,bash,postman,figma&theme=dark&perline=6" alt="tools" />
+  </a>
 </p>
 
 
@@ -72,12 +63,12 @@ public class Daniel {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-stats-extended-frontend-chi.vercel.app/api?username=DanMeraDev&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=6DB33F&icon_color=6DB33F&text_color=8b949e" alt="stats" />
-  <img width="42%" src="https://github-stats-extended-frontend-chi.vercel.app/api/top-langs?username=DanMeraDev&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=00000000&title_color=6DB33F&text_color=8b949e" alt="top langs" />
+  <img width="49%" src="https://github-stats-extended-backend-psi.vercel.app/api?username=DanMeraDev&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=6DB33F&icon_color=6DB33F&text_color=8b949e" alt="stats" />
+  <img width="42%" src="https://github-stats-extended-backend-psi.vercel.app/api/top-langs?username=DanMeraDev&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=00000000&title_color=6DB33F&text_color=8b949e" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-six-mauve.vercel.app/?user=DanMeraDev&hide_border=true&background=00000000&stroke=6DB33F&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideNums=8b949e&currStreakNum=8b949e&dates=8b949e&sideLabels=8b949e" alt="streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=DanMeraDev&hide_border=true&background=00000000&stroke=6DB33F&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideNums=8b949e&currStreakNum=8b949e&dates=8b949e&sideLabels=8b949e" alt="streak" />
 </p>
 
 
@@ -90,9 +81,6 @@ public class Daniel {
   </a>
   <a href="mailto:tu-correo@ejemplo.com">
     <img src="https://img.shields.io/badge/Email-6DB33F?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://github.com/DanMeraDev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-6DB33F?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
 
